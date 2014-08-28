@@ -1,3 +1,8 @@
 html{
     background-color:silver;
 }
+
+body{
+	text-align: center; 
+    font-family: monospace;
+}
